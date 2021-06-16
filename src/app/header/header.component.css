@@ -1,0 +1,7 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width:  2px;
+    -webkit-text-stroke-color: black;
+}

@@ -3,8 +3,17 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  // styles: ["h1 {color: tomato}"],
+  styleUrls: ['./app.component.css'],
 })
+
 export class AppComponent {
-  title = 'frontend';
+
+  //nombreLettres(CSSClass) {
+  //  if (CSSClass === 'parfait')
+  //    return true
+  //}
+  
+  background = '#656988';
+
 }
